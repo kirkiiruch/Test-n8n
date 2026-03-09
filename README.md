@@ -1,7 +1,7 @@
 # Kamgo FB Sourcing (KGFBS) – Automatizovaný Scraping a Kategorizácia
 
 <p align="center">
-  <img src="image_f8cb93.png" alt="Architektúra riešenia n8n" width="100%">
+  <img src="image.png" alt="Architektúra riešenia n8n" width="100%">
 </p>
 
 ## 📋 Prehľad projektu
